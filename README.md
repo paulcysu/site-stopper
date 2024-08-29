@@ -39,7 +39,7 @@ If you want to contribute to SiteStopper or modify it for your own use, follow t
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/sitestopper.git
+   git clone https://github.com/paulcysu/sitestopper.git
    ```
 2. Make your changes to the relevant files:
    - `manifest.json`: Extension configuration
